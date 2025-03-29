@@ -95,9 +95,9 @@
         Gaming {
             display-name = "Gaming";
             bindings = <
-            &kp TAB         &kp W  &kp E         &kp R             &kp T        &kp LS(F2)  &trans  &trans  &trans  &trans
-            &kp LEFT_SHIFT  &kp S  &kp D         &kp F             &kp G        &kp LA(F4)  &trans  &trans  &trans  &trans
-&kp ESCAPE  &kp Z           &kp X  &kp C         &kp V             &kp B        &trans      &trans  &trans  &trans  &trans  &bootloader
+            &kp TAB         &kp Q  &kp W         &kp E             &kp R        &kp LS(F2)  &trans  &trans  &trans  &trans
+            &kp LEFT_SHIFT  &kp A  &kp S         &kp D             &kp G        &kp LA(F4)  &trans  &trans  &trans  &trans
+&kp ESCAPE  &kp LEFT_WIN    &kp Z  &kp X         &kp C             &kp V        &trans      &trans  &trans  &trans  &trans  &bootloader
                                    &kp LEFT_ALT  &kp LEFT_CONTROL  &kp SPACE    &to 0       &trans  &trans
             >;
         };
